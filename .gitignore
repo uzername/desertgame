@@ -1,0 +1,6 @@
+dist/*
+*.lnk
+./node_modules/*
+./node_modules
+.vscode
+node_modules
